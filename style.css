@@ -1,0 +1,14 @@
+h1{font-family:'Klee One';color:black;text-align:center;}
+		
+		#div1{border:1px solid black;display:inline-block;width:200px;height:200px;position:relative;left:400px;background-color:blue;padding:10px;}
+		
+		#div2{display:inline-block;position:relative;left:400px;top:-70px}
+		
+		#p1{font-family:'klee One';text-align:left;display:inline;}
+		
+		#p2{text-align:center;}
+		
+		body{background-color:#E6E6E6}
+		
+		
+		ul:nth-of-type(1) li:nth-of-type(odd){font-family:monospace;font-size:30px}
