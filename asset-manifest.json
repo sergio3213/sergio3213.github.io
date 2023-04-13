@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.51888b5e.css",
+    "main.js": "./static/js/main.d567beec.js",
+    "static/js/787.be55e6d0.chunk.js": "./static/js/787.be55e6d0.chunk.js",
+    "static/media/notebookCafe.jpg": "./static/media/notebookCafe.b4df54d1af86e3d5c96b.jpg",
+    "static/media/logoGmail.png": "./static/media/logoGmail.d94c1ead5b004fc2c130.png",
+    "index.html": "./index.html",
+    "main.51888b5e.css.map": "./static/css/main.51888b5e.css.map",
+    "main.d567beec.js.map": "./static/js/main.d567beec.js.map",
+    "787.be55e6d0.chunk.js.map": "./static/js/787.be55e6d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51888b5e.css",
+    "static/js/main.d567beec.js"
+  ]
+}
