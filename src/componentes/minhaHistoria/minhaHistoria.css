@@ -1,0 +1,32 @@
+.divComH1SobreMim{
+    width:100%;
+    text-align: center;
+    border:0px solid black;
+}
+
+.h1SobreMimComponenteTodo{
+    font-family: 'Teko', sans-serif;
+    font-weight: 400;
+    font-size: calc(3vh + 5vw);
+    width: 100vw;
+    border:0px solid yellow;
+}
+
+.divTextoQueDigitaSobreMim{
+    border-top: calc(2vh + 2vw) solid #008080 ;
+    border-bottom: calc(2vh + 2vw) solid #008080 ;
+    width:100vw;
+    
+    
+}
+
+
+.divTextoQueDigitaSobreMim{
+    
+    font-family: 'Share Tech Mono', monospace;
+    font-weight: 400;
+
+    font-size:calc(1.8vh + 3.7vw);
+    color:#008080; 
+    width:100vw
+}

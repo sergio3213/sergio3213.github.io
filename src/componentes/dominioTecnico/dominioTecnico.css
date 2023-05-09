@@ -1,0 +1,74 @@
+.componenteTodoDominiosTecnicos{
+    
+}
+
+.h1DominiosTecnicos{
+    font-family: 'Teko', sans-serif;
+    font-weight: 400;
+    font-size: calc(3vh + 5vw);
+    position:relative;
+    left:25vw;
+    width: 50vw;
+    border: 0px solid black;
+}
+
+.divDominiosTecnicos{
+
+    background-size:90vw 60vh;
+    background-repeat: no-repeat; 
+    background-position: 4vw 0vw;
+    font-family: 'Share Tech Mono', sans-serif;
+    font-size:10vw;
+    width:100%;
+    height:61vh;
+    position:relative;
+    left:0vw;
+    border:0px solid black;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.marcaVerificacao{
+    width:calc(6vw + 3vh);
+}
+
+.divHtmlList{
+    width:70vw;
+    position:relative;
+    top:7vh;
+    left:15vw
+}
+.divCssList{
+    width:70vw;
+    position:relative;
+    top:9vh;
+    left:15vw
+}
+.divJavascriptList{
+    width:70vw;
+    position:relative;
+    top:11vh;
+    left:15vw
+}
+.divNodeJSList{
+    width:70vw;
+    position:relative;
+    top:13vh;
+    left:15vw
+}
+
+.divReactList{
+    width:70vw;
+    position:relative;
+    top:15vh;
+    left:15vw
+}
+
+.divPythonList{
+    width:70vw;
+    position:relative;
+    top:17vh;
+    left:15vw
+}
+
+

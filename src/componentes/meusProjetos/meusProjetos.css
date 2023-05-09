@@ -1,0 +1,13 @@
+.componenteTodoMeusProjetos{
+    width:100%;
+    text-align: center;
+}
+
+.h1ComponenteTodoMeusProjetos{
+    font-family: 'Teko', sans-serif;
+    font-weight: 400;
+    font-size: calc(3vh + 5vw);
+    border:0px solid black;
+    width:100vw
+    
+}

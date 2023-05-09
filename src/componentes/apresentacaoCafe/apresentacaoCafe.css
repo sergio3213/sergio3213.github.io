@@ -1,0 +1,65 @@
+.componenteTodoCafe {
+  background-size: 10vw 10vh;
+  background-position:center center;
+  width: 100vw;
+  height: 40vh;
+  border: 0px solid black;
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0;
+}
+
+.componenteApresentacaoCafeVisivel{
+  background-size: cover;
+  opacity:1;
+  
+}
+
+.textosComponenteCafe{
+  width:100vw;
+}
+
+.divMeuNomeComponenteCafe {
+  position: relative;
+  top:9vh;
+  text-align: center;
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:calc(6vw + 3.7vh);
+  width:100vw;
+  height:6vh;
+  border: 0px solid black;
+}
+
+.divTextoDesenvolvedorComponenteCafe{
+    position: relative;
+    top:8vh;
+    left:0vw;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    color:white;
+    font-size:calc(8vw + 4.6vh);
+    border:0px solid black;
+    width:100vw;
+    height:9vh;
+}
+
+.imgLogoLinkedin{
+    width:9vw;
+    position:relative;
+    top:17vh;
+    left:17vw;
+}
+
+.imgLogoGithub{
+    width:11vw;
+    position:relative;
+    top:17vh;
+    left:32vw;
+}
+
+.imgLogoGmail{
+    width:9vw;
+    position:relative;
+    top:17vh;
+    left:47vw;
+}
